@@ -1,0 +1,4 @@
+verilog work "MyFSM.v"
+verilog work "MultiCycle.v"
+verilog work "tb_MultiCycle.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

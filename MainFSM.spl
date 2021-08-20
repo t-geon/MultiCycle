@@ -1,0 +1,26 @@
+[Inputs]
+ojmen5xq5s
+ivgyfpmz0h
+=wxcz26w67r[5:0]=
+=bo0iohlrhl[5:0]=
+[Outputs]
+g13zd367es
+xj43snd9nw
+e5x4ua0v7v
+bsnckksks3
+xdcklojvqg
+jx7bq3fo2i
+=ol5i9nfvlx[2:0]=
+=xhbioqh67a[1:0]=
+=daf4pxb5bp[2:0]=
+=kr1je6ufns[1:0]=
+=mj6fupar7g[4:0]=
+=fy051e8tr2[3:0]=
+=ofjqn29td7[2:0]=
+=gs58vxdzkm[2:0]=
+=q6cpd7uw8d[1:0]=
+=gqtyldqrh8[9:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel MainFSM
+

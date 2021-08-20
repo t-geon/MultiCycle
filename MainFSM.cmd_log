@@ -1,0 +1,2 @@
+vhdtdtfi -lib work C:/project/MultiCycle/MultiCycle.v -lang verilog -prj MultiCycle -o MainFSM.spl -module MainFSM -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family zynq MainFSM.spl C:/project/MultiCycle/MainFSM.sym 
